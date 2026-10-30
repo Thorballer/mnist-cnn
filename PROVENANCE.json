@@ -1,0 +1,28 @@
+{
+  "project": "mnist-cnn",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/notebook1002c7fcf8.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/notebook1002c7fcf8",
+      "source_title": "notebook1002c7fcf8",
+      "source_id": 66508353,
+      "last_run_time": "2024-09-26 14:16:11.070000",
+      "original_sha256": "6fb3b416d4b322deb52eebdce30f75b8037907864302b873e571548e384f7947",
+      "published_sha256": "6fb3b416d4b322deb52eebdce30f75b8037907864302b873e571548e384f7947",
+      "redactions": [],
+      "executed_outputs_present": false
+    },
+    {
+      "file": "notebooks/tutorial-8-subclassing.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/tutorial-8-subclassing",
+      "source_title": "tutorial 8 (subclassing)",
+      "source_id": 66285187,
+      "last_run_time": "2024-09-22 21:28:15.313000",
+      "original_sha256": "41c9a8a75784d32284c7a5d56ae2aee051bbf954fe02462fb5e4ea3e60c89dd0",
+      "published_sha256": "41c9a8a75784d32284c7a5d56ae2aee051bbf954fe02462fb5e4ea3e60c89dd0",
+      "redactions": [],
+      "executed_outputs_present": false
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Imported packages, not a tested or version-pinned environment.
+huggingface-hub
+keras
+matplotlib
+tensorflow
+tensorflow-datasets
